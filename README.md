@@ -14,7 +14,6 @@ Current experiment is using a subset of this dataset:
 
 More information on the dataset is available at [this link](https://mosmed.ai/en/datasets/covid19_1110/) and at [this link](https://www.medrxiv.org/content/10.1101/2020.05.20.20100362v1);
 The complete dataset is available for download at the [following link](https://mosmed.ai/datasets/сgovid19_1110/).
-
 3D images classification problem solution is implemented as 3D CNN with data augmentation (rotation).
 #### Reference:
 "3D Image Classification from CT Scans" implementation by Hasib Zunair at the [following link](https://keras.io/examples/vision/3D_image_classification/);
